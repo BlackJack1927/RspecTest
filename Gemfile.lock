@@ -45,6 +45,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
+  rexml (~> 3.2, >= 3.2.4)
   rspec (~> 3.10)
   rubocop (~> 1.30.0)
   rubocop-performance (~> 1.0)

@@ -3,6 +3,7 @@
 source 'https://rubygems.org'
 
 group :test do
+  gem 'rexml', '~> 3.2', '>= 3.2.4'
   gem 'rspec', '~>3.10'
 end
 
